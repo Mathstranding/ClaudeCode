@@ -48,7 +48,7 @@ Locate "firstStartTime" and "machineID," enter the following line between the tw
 
 6. Restart PowerShell following step 2. Enter "Claude" again and follow the instructions to set up your API. You should now have full access to ClaudeCode.
 
-## Project 1
+## US Homeowner Age Analysis
 
 The first project is to plot the US homeowner age group. Prompts are provided below (same as in the video), and outputs, including raw data and Python and R scripts, can be found in folder "test2," where ClaudeCode conducted the job.
 
