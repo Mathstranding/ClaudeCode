@@ -1,4 +1,4 @@
-# ClaudeCode
+# US Homeowner Analysis_ClaudeCode
 This project aims to reproduce the workflow from Markus Academy in order to facilitate future projects and provide a template for other automation requests. 
 
 Markus K. Brunnermeier, director of Princeton's BCF, is the host of the Claude Code video series, and Paul Goldsmith-Pinkham, professor at Yale School of Management, is the speaker illustrating the implemented workflow. The Claude Code video series can be best accessed on [Substack](https://markusacademy.substack.com/p/claude-code-for-applied-economists).
